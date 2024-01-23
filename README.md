@@ -24,4 +24,4 @@ The game is an excellent opportunity to learn the basics of programming, user in
 
 ## Udemy Course
 
-This project is based on the Udemy course by Jonas Schmedtmann, and it serves as an implementation of the Pig Dice Game learned in the course.
+This project is based on the Udemy course by Jonas Schmedtmann, and it serves as an implementation of the  Guess the Number Game learned in the course.
